@@ -1,2 +1,3 @@
 push 
 pull
+파일추가push.egoing
